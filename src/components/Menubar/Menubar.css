@@ -1,0 +1,17 @@
+.menu-container{
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.menuLogo{
+    cursor: grab;
+    font-size: 20px;
+    color: red;
+}
+.red{
+    color: red;
+}
+.o{
+    color: black;
+    font-size: 23px;
+}
